@@ -17,6 +17,8 @@ public class Prova {
         // TODO code application logic here
         System.out.println("hola");
         System.out.println("sdfsdf");
+        System.out.println("hola");
+        System.out.println("hola");
     }
     
 }
